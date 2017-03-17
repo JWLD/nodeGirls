@@ -1,0 +1,22 @@
+{
+  "name": "wikipedia_viewer",
+  "version": "1.0.0",
+  "description": "Wikipedia viewer",
+  "main": "server.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JWLD/wiki.git"
+  },
+  "author": "Jack Davies",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JWLD/wiki/issues"
+  },
+  "homepage": "https://github.com/JWLD/wiki#readme"
+}
