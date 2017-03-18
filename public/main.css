@@ -1,0 +1,17 @@
+body, h1, h2, div, form, textarea {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  text-align: center;
+}
+
+.form-text {
+  resize: none;
+}
+
+.form-submit {
+  display: block;
+  margin: auto;
+}
